@@ -1,0 +1,15 @@
+C:\Users\natka\source\repos\Osy\Osy\bin\Debug\net6.0\Osy.exe
+C:\Users\natka\source\repos\Osy\Osy\bin\Debug\net6.0\Osy.deps.json
+C:\Users\natka\source\repos\Osy\Osy\bin\Debug\net6.0\Osy.runtimeconfig.json
+C:\Users\natka\source\repos\Osy\Osy\bin\Debug\net6.0\Osy.dll
+C:\Users\natka\source\repos\Osy\Osy\bin\Debug\net6.0\Osy.pdb
+C:\Users\natka\source\repos\Osy\Osy\obj\Debug\net6.0\Osy.csproj.AssemblyReference.cache
+C:\Users\natka\source\repos\Osy\Osy\obj\Debug\net6.0\Osy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natka\source\repos\Osy\Osy\obj\Debug\net6.0\Osy.AssemblyInfoInputs.cache
+C:\Users\natka\source\repos\Osy\Osy\obj\Debug\net6.0\Osy.AssemblyInfo.cs
+C:\Users\natka\source\repos\Osy\Osy\obj\Debug\net6.0\Osy.csproj.CoreCompileInputs.cache
+C:\Users\natka\source\repos\Osy\Osy\obj\Debug\net6.0\Osy.dll
+C:\Users\natka\source\repos\Osy\Osy\obj\Debug\net6.0\refint\Osy.dll
+C:\Users\natka\source\repos\Osy\Osy\obj\Debug\net6.0\Osy.pdb
+C:\Users\natka\source\repos\Osy\Osy\obj\Debug\net6.0\Osy.genruntimeconfig.cache
+C:\Users\natka\source\repos\Osy\Osy\obj\Debug\net6.0\ref\Osy.dll

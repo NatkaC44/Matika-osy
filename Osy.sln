@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osy", "Osy\Osy.csproj", "{31FF1ADA-8227-46C3-8AF5-C537A9148C06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FF1ADA-8227-46C3-8AF5-C537A9148C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FF1ADA-8227-46C3-8AF5-C537A9148C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FF1ADA-8227-46C3-8AF5-C537A9148C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FF1ADA-8227-46C3-8AF5-C537A9148C06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DED4F1F-3BF5-449E-82C0-CE54800B77CD}
+	EndGlobalSection
+EndGlobal
